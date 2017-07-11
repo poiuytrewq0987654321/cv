@@ -27,15 +27,28 @@ div.linia{
     padding:0;
 }
 
+#header-content #nazwisko{
+    margin:30px;
+}
+
+/* sekcja section */
+
+.paragraf-header{
+    font-weight: 700;
+    font-size:14px;
+}
+
+
 
 #dane-osobowe{
     display: inline-block;
+    margin:10px 0 10px 0;
 }
 
 
 #image{
     width:200px;
-    height:230px;
+    height:200px;
     background-image:url(../img/foto.jpg);
     background-size: cover;
     background-position: center;
